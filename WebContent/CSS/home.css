@@ -1,0 +1,67 @@
+.exout{
+	margin:0 120px;
+}
+.top{
+	height:50px;
+	margin-bottom:12px;
+	background-image: url(../image/logo.jpg);
+	background-repeat:no-repeat;
+	background-position:center left;
+	background-size:50px 50px;
+}
+#sclname{
+	display:inline-block;
+	margin-top:12px;
+	margin-left:60px;
+	margin-bottom:0px;
+}
+#lefta{
+	float:right;
+	margin:15px 0px;
+}
+#lefta tr td{
+	border-style:none none none solid;
+	border-width:1px;
+}
+.xindex{
+	height:30px;
+	margin-top:0px;
+	background-color:DimGray;
+}
+#biaoti{
+	padding:4px 0;
+	margin-left:10px;
+}
+#biaoti tr td{
+	width:90px;
+	height:15px;
+	border-style:none none none solid;
+	border-width:1px;
+	border-color:white;
+	text-align:center;
+}
+#biaoti tr td a{
+	text-decoration:none;
+}
+#biaoti tr td a:link{
+	color:white;
+}
+.xindex2{
+	height:20px;
+	margin-top:0px;
+	background-color:#DCDCDC;
+	line-height:20px;
+}
+#biaoti2{
+	float:right;
+	font-size:12px;
+}
+#biaoti2 tr td{
+	width:90px;
+}
+#biaoti2 tr td a{
+	text-decoration:none;
+}
+#biaoti2 tr td a:link{
+	color:black;
+}

@@ -1,0 +1,7 @@
+.top{
+	height:100px;
+	margin:20px;
+	background-image: url(../image/logo.jpg);
+	background-repeat:no-repeat;
+	background-size:50px 50px;
+}
